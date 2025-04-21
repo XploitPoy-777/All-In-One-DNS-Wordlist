@@ -16,7 +16,7 @@ This repository provides a comprehensive DNS wordlist containing 20,728,676 uniq
 ### Example Usage:
 #### Download Command:
 ```
-git clone https://github.com/0xPoyel/All-In-One-DNS-Wordlist.git
+git clone https://github.com/XploitPoy-777/All-In-One-DNS-Wordlist.git
 ```
 -  Navigate to the Directory:
 ```
